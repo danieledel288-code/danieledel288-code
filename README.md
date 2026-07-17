@@ -1,8 +1,17 @@
+<div align="center">
+
 # Daniel Edelstein
 
-I build robots, embedded systems, and AI agents. Engineering student at McMaster University.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4FC5DE&center=true&vCenter=true&width=460&lines=I+build+robots.;I+build+embedded+systems.;I+build+AI+agents." alt="I build robots, embedded systems, and AI agents">
 
-Most of my work lives at the intersection of hardware and software: wireless control links, motor and servo systems, 3D printed mechanisms, and multi-agent AI pipelines. 1st place at the TMLS 2026 hackathon with a 7-agent document intelligence system.
+Engineering student at McMaster University. Most of my work lives at the intersection<br>of hardware and software: wireless control links, motor and servo systems,<br>3D printed mechanisms, and multi-agent AI pipelines.<br>1st place at the TMLS 2026 hackathon with a 7-agent document intelligence system.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danieledel288-code/danieledel288-code/output/github-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/danieledel288-code/danieledel288-code/output/github-snake-light.svg">
+</picture>
+
+</div>
 
 ## Projects
 
@@ -16,7 +25,13 @@ Most of my work lives at the intersection of hardware and software: wireless con
 
 ## Tools I reach for
 
-`Python` `C++` `Java` `ESP32 / Arduino` `PyTorch` `KiCad` `Fusion 360 / Onshape` `Claude API` `Flask` `React`
+<p>
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,arduino,raspberrypi,pytorch,react,flask,js,git,cloudflare,linux" alt="Python, C++, Java, Arduino, Raspberry Pi, PyTorch, React, Flask, JavaScript, Git, Cloudflare, Linux">
+</p>
+
+Plus the hardware side: KiCad for PCBs, Fusion 360 / Onshape for CAD, and the Claude API for agent systems.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieledel288-code&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4FC5DE" alt="Most used languages" width="380">
 
 ## Links
 
