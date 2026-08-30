@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4FC5DE&center=true&vCenter=true&width=460&lines=I+build+robots.;I+build+embedded+systems.;I+build+AI+agents." alt="I build robots, embedded systems, and AI agents">
 
-Engineering student at McMaster University. Most of my work lives at the intersection<br>of hardware and software: wireless control links, motor and servo systems,<br>3D printed mechanisms, and multi-agent AI pipelines.<br>1st place at the TMLS 2026 hackathon with a 7-agent document intelligence system.
+Engineering student at McMaster University. Most of my work lives at the intersection<br>of hardware and software: wireless control links, motor and servo systems,<br>3D printed mechanisms, multi-agent AI pipelines, and full-stack web apps.<br>1st place at the TMLS 2026 hackathon with a 7-agent document intelligence system.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danieledel288-code/danieledel288-code/output/github-snake.svg">
@@ -17,9 +17,11 @@ Engineering student at McMaster University. Most of my work lives at the interse
 
 | Repo | What it is |
 |---|---|
+| [mcmaster-meal-plan](https://github.com/danieledel288-code/mcmaster-meal-plan) | Meal-budgeting planner for McMaster students. Cloudflare Pages + Functions + D1, real OpenStreetMap campus geography, PDF/text timetable parsing, optional accounts. [Live](https://mcmaster-meal-plan.pages.dev) |
 | [Batmobile-Robotic-Arm-Project](https://github.com/danieledel288-code/Batmobile-Robotic-Arm-Project) | RC Batmobile with a 4-DOF arm on top. Two ESP32s over ESP-NOW, custom controller with a printed steering wheel |
 | [Ironman-Helmet](https://github.com/danieledel288-code/Ironman-Helmet) | 3D printed helmet whose faceplate opens on offline voice command. ESP32 + DF2301Q + eased servos |
 | [Reaction-Wheel](https://github.com/danieledel288-code/Reaction-Wheel) | Self-stabilizing reaction wheel: CAD, custom PCB (KiCad), IMU + PID control |
+| [RC-Ball-Launching-Buggy](https://github.com/danieledel288-code/RC-Ball-Launching-Buggy) | Autonomous pickleball launcher on a gutted toy-car chassis. ESP32 + PCA9685, its own WiFi AP web UI. Blueprint.io build-contest entry |
 | [Ultrasonic-Radar](https://github.com/danieledel288-code/Ultrasonic-Radar) | Arduino + HC-SR04 radar with a real-time Processing sweep display |
 | [eye-reminder](https://github.com/danieledel288-code/eye-reminder) | Windows tray app enforcing the 20-20-20 rule, counting active screen time only |
 
